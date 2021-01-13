@@ -1,0 +1,26 @@
+main > h1 {
+    margin-bottom: 10px;
+}
+
+.page-details {
+    margin-bottom: 40px;
+}
+
+.btn:link, .btn:visited {
+	color: #ffffff;
+}
+
+.table {
+	text-align: center;
+	border: 1px solid #dddddd;
+}
+
+.table td, .table th {
+	padding: 7px;
+	font-size: 14px;
+}
+
+.btn {
+	margin: 0px 2px;
+	font-size: 15px;
+}

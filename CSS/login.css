@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.jumbotron {
+	padding-top: 20px;
+	margin-top: 20px;
+}
+
+.jumbotron-area {
+	margin: auto;
+}
+
+.jbt-title > h3 {
+	text-align: center;
+}
+
+.jbt-title {
+	margin-bottom: 20px;
+}

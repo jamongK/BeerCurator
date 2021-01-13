@@ -1,0 +1,47 @@
+form {
+	margin-top: 40px;
+}
+
+.my-1 {
+	width: 300px;
+	display: inline-block;
+}
+
+.rc-btn {
+	width: 150px;
+	margin: 110px 10px 25px 10px;
+}
+
+.recommend-section {
+	margin: auto;
+}
+
+.bitterness-section {
+	margin: 20px auto;
+}
+
+.bitterness-section > .card {
+	display: inline-block;
+	width: 220px;
+	margin: 10px 5px;
+}
+
+.maltiness-section {
+	margin: 40px auto;
+}
+
+.maltiness-section > .card {
+	display: inline-block;
+	width: 220px;
+	margin: 10px 5px;
+}
+
+.fizziness-section {
+	margin: 40px auto;
+}
+
+.fizziness-section > .card {
+	display: inline-block;
+	width: 220px;
+	margin: 10px 5px;
+}

@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.row > form {
+	width: 500px;
+	margin: 20px auto;
+}
+
+.table {
+	border: 1px solid #dddddd;
+}
+
+.form-th {
+	background-color: #eeeeee;
+	text-align: center;
+	font-size: 20px;
+}
+
+.form-content {
+	height: 300px;
+}

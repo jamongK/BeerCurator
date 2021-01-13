@@ -1,0 +1,21 @@
+/* main {
+    margin: 50px 60px 40px 60px;
+    padding: 100px 20px;
+    line-height: 0em;
+}
+
+main h2{
+    font-size: 33pt;
+}
+
+main p{
+    font-size: 15pt;
+} */
+
+.site-description {
+    line-height: 20px;
+}
+
+.service-description {
+    line-height: 15px;
+}

@@ -1,0 +1,126 @@
+h3 {
+    font-weight: 800;
+    font-size: 17pt;
+}
+
+.beer-wiki {
+    width: 960px;
+    height: 280px;
+    margin: 10px auto 60px auto;
+}
+
+.beer-wiki img {
+    float: right;
+}
+.beer-wiki h3 {
+    width: fit-content;
+    text-align: left;
+    margin: 0;
+    padding-top: 40px;
+}
+
+.beer-wiki p {
+    width: 670px;
+    text-align: left;
+    line-height: 180%;
+    font-size: 11pt;
+    padding-top: 5px;
+}
+
+.beer-history {
+    margin: 100px auto;
+    width: 1000px;
+}
+
+.beer-history img {
+    float: left;
+}
+
+.beer-history h3 {
+    text-align: left;
+    margin: 0;
+    padding-top: 5px;
+    padding-left: 330px;
+    width: 630px;
+}
+
+.beer-history p {
+    padding-top: 5px;
+    padding-left: 330px;
+    text-align: left;
+    font-size: 11pt;
+    line-height: 180%;
+}
+
+.b-process{
+    text-align: left;
+    margin: auto;
+    width: 1000px;
+}
+
+.b-process h3 {
+    padding-left: 25px;
+    margin: 0px;
+}
+
+.b-process li{
+    line-height: 180%;
+    font-size: 11pt;
+}
+
+.beerTypeCpn {
+    display: block;
+    padding: 40px 0px;
+}
+
+.ale_content {
+    display: table;
+    margin: auto;
+}
+
+.aleOval {
+    display: table-cell;
+    padding: 0px;
+    vertical-align: middle;
+}
+
+.aleArrow {
+    display: table-cell;
+    padding: 0px 20px;
+    vertical-align: middle;
+}
+
+.aleH3 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.aleH3 h3 {
+    font-size: 13pt;
+}
+
+.lager_content {
+    display: table;
+    margin: auto;
+}
+
+.lagOval {
+    display: table-cell;
+    padding: 0px;
+    vertical-align: middle;
+}
+
+.lagArrow {
+    display: table-cell;
+    padding: 0px 20px;
+    vertical-align: middle;
+}
+
+.lagH3 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.lagH3 h3 {
+    font-size: 13pt;
+}

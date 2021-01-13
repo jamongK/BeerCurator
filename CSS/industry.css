@@ -1,0 +1,132 @@
+main > h1 {
+    margin-bottom: 10px;
+}
+
+.page-details {
+    margin: 0px 0px 40px 0px;
+}
+
+.brIndustry {
+    display: block;
+    margin: 50px 30px;
+}
+
+.carlsGroup{
+    display: table;
+    margin: auto;
+}
+
+.carls-logo, .yelArrow1, .carls, .kronen, .staro, .wars {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.carls-logo {
+    padding: 20px;
+}
+
+.carls-logo img {
+    width: 180px;
+}
+
+.carls img, .kronen img, .staro img, .wars img {
+    width: 140px;
+}
+
+.yelArrow1 > img, .yelArrow2 > img, .yelArrow3 > img, .yelArrow4 > img, .yelArrow5 > img {
+    width: 110px;
+    padding: 20px 40px 20px 20px;
+}
+
+.abGroup{
+    display: table;
+    margin: 60px auto;
+}
+
+.abInBev-logo, .yelArrow2, .leffe, .bud, .becks, .corona {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.abInBev-logo {
+    padding: 20px;
+}
+
+.abInBev-logo img {
+    width: 180px;
+}
+
+.leffe img, .bud img, .becks img, .corona img {
+    width: 140px;
+}
+
+.RadeGruppe{
+    display: table;
+    margin: 60px auto;
+}
+
+.Rade-logo, .yelArrow3, .berKindl, .berPils, .schoff, .tucher {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.Rade-logo {
+    padding: 20px;
+}
+
+.Rade-logo img {
+    width: 180px;
+}
+
+.berKindl img, .berPils img, .schoff img, .tucher img {
+    width: 140px;
+}
+
+.mcGroup{
+    display: table;
+    margin: 60px auto;
+}
+
+.molson-logo, .yelArrow4, .blMoon, .miller, .carling, .grol {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.molson-logo {
+    padding: 20px;
+}
+
+.molson-logo img {
+    width: 180px;
+}
+
+.blMoon img, .miller img, .carling img, .grol img {
+    width: 140px;
+}
+
+.ashGroup{
+    display: table;
+    margin: 60px auto;
+}
+
+.asahi-logo, .yelArrow5, .asahi, .peroni, .pilsUrq {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.asahi-logo {
+    padding: 20px;
+}
+
+.asahi-logo img {
+    width: 180px;
+}
+
+.asahi img, .peroni img, .pilsUrq img {
+    width: 140px;
+}
+
+.carls-logo > a > img:hover, .abInBev-logo > a > img:hover, .Rade-logo > a > img:hover, .molson-logo > a > img:hover, .asahi-logo > a > img:hover {
+    box-shadow: 6px 10px 6px #b2bec3;
+    transition: 0.3s;
+}

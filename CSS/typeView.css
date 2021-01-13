@@ -1,0 +1,18 @@
+.type-info {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.type-img, .type-data {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.type-data {
+    width: 500px;
+    text-align: left;
+}
+
+.type-name {
+    margin-bottom: 15px;
+}
